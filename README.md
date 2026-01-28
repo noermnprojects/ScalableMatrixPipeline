@@ -39,7 +39,7 @@ The engine treats color images as 3-channel tensors, executing independent proce
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/Scalable-Matrix-Pipeline.git](https://github.com/your-username/Scalable-Matrix-Pipeline.git)
+git clone [https://github.com/noermnproject/ScalableMatrixPipeline.git](https://github.com/noermnproject/ScalableMatrixPipeline.git)
 
 # Install dependencies
 pip install numpy scipy matplotlib pillow
